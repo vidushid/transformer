@@ -1,3 +1,5 @@
-# transformer
+# English to Hindi Translation (Transformer model)
 
-Code to be added by 5th Sep 2025
+• Performed data cleaning and pre-processing
+• Built Encoder and Decoder blocks using low-level TensorFlow and Keras functionalities
+• Improved performance by learning word order using the positional embedding
